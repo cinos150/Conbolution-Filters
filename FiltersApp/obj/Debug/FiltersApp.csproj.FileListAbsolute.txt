@@ -1,0 +1,42 @@
+c:\users\wpiot\onedrive\dokumenty\visual studio 2015\Projects\FiltersApp\FiltersApp\bin\Debug\FiltersApp.exe.config
+c:\users\wpiot\onedrive\dokumenty\visual studio 2015\Projects\FiltersApp\FiltersApp\bin\Debug\FiltersApp.exe
+c:\users\wpiot\onedrive\dokumenty\visual studio 2015\Projects\FiltersApp\FiltersApp\bin\Debug\FiltersApp.pdb
+c:\users\wpiot\onedrive\dokumenty\visual studio 2015\Projects\FiltersApp\FiltersApp\obj\Debug\FiltersApp.csprojResolveAssemblyReference.cache
+c:\users\wpiot\onedrive\dokumenty\visual studio 2015\Projects\FiltersApp\FiltersApp\obj\Debug\FiltersApp.MainWindow.resources
+c:\users\wpiot\onedrive\dokumenty\visual studio 2015\Projects\FiltersApp\FiltersApp\obj\Debug\FiltersApp.Properties.Resources.resources
+c:\users\wpiot\onedrive\dokumenty\visual studio 2015\Projects\FiltersApp\FiltersApp\obj\Debug\FiltersApp.csproj.GenerateResource.Cache
+c:\users\wpiot\onedrive\dokumenty\visual studio 2015\Projects\FiltersApp\FiltersApp\obj\Debug\FiltersApp.exe
+c:\users\wpiot\onedrive\dokumenty\visual studio 2015\Projects\FiltersApp\FiltersApp\obj\Debug\FiltersApp.pdb
+E:\Drive\OneDrive\Dokumenty\Visual Studio 2015\Projects\FiltersApp\FiltersApp\bin\Debug\FiltersApp.exe.config
+E:\Drive\OneDrive\Dokumenty\Visual Studio 2015\Projects\FiltersApp\FiltersApp\obj\Debug\FiltersApp.exe
+E:\Drive\OneDrive\Dokumenty\Visual Studio 2015\Projects\FiltersApp\FiltersApp\obj\Debug\FiltersApp.pdb
+E:\Drive\OneDrive\Dokumenty\Visual Studio 2015\Projects\FiltersApp\FiltersApp\bin\Debug\FiltersApp.exe
+E:\Drive\OneDrive\Dokumenty\Visual Studio 2015\Projects\FiltersApp\FiltersApp\bin\Debug\FiltersApp.pdb
+E:\Drive\OneDrive\Dokumenty\Visual Studio 2015\Projects\FiltersApp\FiltersApp\obj\Debug\FiltersApp.csprojResolveAssemblyReference.cache
+E:\Drive\OneDrive\Dokumenty\Visual Studio 2015\Projects\FiltersApp\FiltersApp\obj\Debug\FiltersApp.MainWindow.resources
+E:\Drive\OneDrive\Dokumenty\Visual Studio 2015\Projects\FiltersApp\FiltersApp\obj\Debug\FiltersApp.Properties.Resources.resources
+E:\Drive\OneDrive\Dokumenty\Visual Studio 2015\Projects\FiltersApp\FiltersApp\obj\Debug\FiltersApp.csproj.GenerateResource.Cache
+E:\Drive\OneDrive\Dokumenty\Visual Studio 2015\Projects\FiltersApp\FiltersApp\obj\Debug\FiltersApp.PopupForm.resources
+F:\FILTERS !!!!!!!!!!!!!!!\FiltersApp\FiltersApp\bin\Debug\FiltersApp.exe.config
+F:\FILTERS !!!!!!!!!!!!!!!\FiltersApp\FiltersApp\obj\Debug\FiltersApp.exe
+F:\FILTERS !!!!!!!!!!!!!!!\FiltersApp\FiltersApp\obj\Debug\FiltersApp.pdb
+F:\FILTERS !!!!!!!!!!!!!!!\FiltersApp\FiltersApp\bin\Debug\FiltersApp.exe
+F:\FILTERS !!!!!!!!!!!!!!!\FiltersApp\FiltersApp\bin\Debug\FiltersApp.pdb
+F:\FILTERS !!!!!!!!!!!!!!!\FiltersApp\FiltersApp\obj\Debug\FiltersApp.csprojResolveAssemblyReference.cache
+F:\FILTERS !!!!!!!!!!!!!!!\FiltersApp\FiltersApp\obj\Debug\FiltersApp.MainWindow.resources
+F:\FILTERS !!!!!!!!!!!!!!!\FiltersApp\FiltersApp\obj\Debug\FiltersApp.PopupForm.resources
+F:\FILTERS !!!!!!!!!!!!!!!\FiltersApp\FiltersApp\obj\Debug\FiltersApp.Properties.Resources.resources
+F:\FILTERS !!!!!!!!!!!!!!!\FiltersApp\FiltersApp\obj\Debug\FiltersApp.csproj.GenerateResource.Cache
+C:\Users\wpiot\Desktop\FiltersApp\FiltersApp\bin\Debug\FiltersApp.exe.config
+C:\Users\wpiot\Desktop\FiltersApp\FiltersApp\obj\Debug\FiltersApp.exe
+C:\Users\wpiot\Desktop\FiltersApp\FiltersApp\obj\Debug\FiltersApp.pdb
+C:\Users\wpiot\Desktop\FiltersApp\FiltersApp\bin\Debug\FiltersApp.exe
+C:\Users\wpiot\Desktop\FiltersApp\FiltersApp\bin\Debug\FiltersApp.pdb
+C:\Users\wpiot\Desktop\FiltersApp\FiltersApp\obj\Debug\FiltersApp.csprojResolveAssemblyReference.cache
+C:\Users\wpiot\Desktop\FiltersApp\FiltersApp\obj\Debug\FiltersApp.MainWindow.resources
+C:\Users\wpiot\Desktop\FiltersApp\FiltersApp\obj\Debug\FiltersApp.PopupForm.resources
+C:\Users\wpiot\Desktop\FiltersApp\FiltersApp\obj\Debug\FiltersApp.Properties.Resources.resources
+C:\Users\wpiot\Desktop\FiltersApp\FiltersApp\obj\Debug\FiltersApp.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\FiltersApp\FiltersApp\bin\Debug\FiltersApp.exe.config
+C:\Users\Piotr\Desktop\FiltersApp\FiltersApp\obj\Debug\FiltersApp.exe
+C:\Users\Piotr\Desktop\FiltersApp\FiltersApp\obj\Debug\FiltersApp.pdb
